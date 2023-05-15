@@ -1,5 +1,6 @@
 import { client } from "../elastic/client.js";
 import { Logger } from "../utils/Logger.js";
+import { stringToBytes } from "../utils/helpers.js";
 
 /**
  *
@@ -71,7 +72,7 @@ export const fetchIndexStats = async (indexNames) => {
  */
 export const shouldRollover = (indexStat, condition) => {
   return (
-    indexStat.byteSize > condition.max_size ||
+    indexStat.byteSize > stringToBytes(condition.max_size) ||
     indexStat.docCount > condition.max_docs
   );
 };

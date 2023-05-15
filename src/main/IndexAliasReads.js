@@ -1,4 +1,5 @@
 import { client } from "../elastic/client.js";
+import { Logger } from "../utils/Logger.js";
 
 /**
  *
@@ -7,11 +8,14 @@ import { client } from "../elastic/client.js";
  * @returns {Promise<{[indexName1]: { aliases: {[aliasName1]: {}}}, [indexName2]: {...}, ...}>}
  */
 export const fetchAliasesByPattern = async (aliasPattern) => {
-  const indices = await client.indices.getAlias({
-    // index: "*",
-    name: aliasPattern,
-  });
-  return indices.body;
+  if (aliasPattern) {
+    const indices = await client.indices.getAlias({
+      // index: "*",
+      name: aliasPattern,
+    });
+    return indices.body;
+  }
+  return {};
 };
 
 /**

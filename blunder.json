@@ -1,0 +1,298 @@
+[
+  {
+    "index": "metricbeat-7.15.2-2022.11.27-000015",
+    "creation.date.string": "2023-05-14T22:58:44.229Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2021.12.02-000003",
+    "creation.date.string": "2023-05-14T22:58:44.028Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.07.30-000011",
+    "creation.date.string": "2023-05-14T22:58:43.679Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.08.29-000012",
+    "creation.date.string": "2023-05-14T22:58:43.395Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.03.02-000006",
+    "creation.date.string": "2023-05-14T22:58:43.026Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.09.28-000013",
+    "creation.date.string": "2023-05-14T22:58:42.784Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.05.31-000009",
+    "creation.date.string": "2023-05-14T22:58:42.506Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.05.01-000008",
+    "creation.date.string": "2023-05-14T22:58:42.207Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.04.01-000007",
+    "creation.date.string": "2023-05-14T22:58:41.986Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2023.04.26-000020",
+    "creation.date.string": "2023-05-14T22:58:41.741Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2023.03.27-000019",
+    "creation.date.string": "2023-05-14T22:58:41.528Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2023.01.26-000017",
+    "creation.date.string": "2023-05-14T22:58:41.356Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.12.27-000016",
+    "creation.date.string": "2023-05-14T22:58:41.138Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.01.01-000004",
+    "creation.date.string": "2023-05-14T22:58:40.953Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.10.28-000014",
+    "creation.date.string": "2023-05-14T22:58:40.762Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.06.30-000010",
+    "creation.date.string": "2023-05-14T22:58:40.579Z"
+  },
+  {
+    "index": "61dff5829ac5140d719fb440_product_listings_0002",
+    "creation.date.string": "2023-05-14T22:58:40.379Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2023.02.25-000018",
+    "creation.date.string": "2023-05-14T22:58:40.167Z"
+  },
+  {
+    "index": "metricbeat-7.15.2-2022.01.31-000005",
+    "creation.date.string": "2023-05-14T22:58:39.818Z"
+  },
+  {
+    "index": "pre-caching-keys_0002",
+    "creation.date.string": "2023-05-14T22:58:39.677Z"
+  },
+  {
+    "index": "5e660fb0d291ec4bb5aa8958_product_listings_0002",
+    "creation.date.string": "2023-05-14T22:58:39.589Z"
+  },
+  {
+    "index": "tr_accuracy_stats_test_0002",
+    "creation.date.string": "2023-05-14T22:58:39.511Z"
+  },
+  {
+    "index": "tr_mms-category_test_0002",
+    "creation.date.string": "2023-05-14T22:58:39.438Z"
+  },
+  {
+    "index": "61dffc96cd645502daae0c3a_product_listings_0002",
+    "creation.date.string": "2023-05-14T22:58:39.346Z"
+  },
+  {
+    "index": "61dff923afc9db02a1195420_products_exclusive_0002",
+    "creation.date.string": "2023-05-14T22:58:39.188Z"
+  },
+  {
+    "index": ".siem-signals-default-000017",
+    "creation.date.string": "2023-05-14T22:58:39.077Z"
+  },
+  {
+    "index": "tr_mms-module_0002",
+    "creation.date.string": "2023-05-14T22:58:38.996Z"
+  },
+  {
+    "index": ".kibana_task_manager_7.15.2_003",
+    "creation.date.string": "2023-05-14T22:58:38.901Z"
+  },
+  {
+    "index": ".apm-agent-configuration_0002",
+    "creation.date.string": "2023-05-14T22:58:38.832Z"
+  },
+  {
+    "index": "tr_hs_api_data_0002",
+    "creation.date.string": "2023-05-14T22:58:38.750Z"
+  },
+  {
+    "index": ".siem-signals-default-000016",
+    "creation.date.string": "2023-05-14T22:58:38.519Z"
+  },
+  {
+    "index": "failed_parsing_datafeeder_logs_0002",
+    "creation.date.string": "2023-05-14T22:58:38.419Z"
+  },
+  {
+    "index": "metrics-endpoint.metadata_current_default_0002",
+    "creation.date.string": "2023-05-14T22:58:38.292Z"
+  },
+  {
+    "index": "61dff9cfae4ea50a7eb77666_product_listings_0002",
+    "creation.date.string": "2023-05-14T22:58:37.979Z"
+  },
+  {
+    "index": ".apm-custom-link_0002",
+    "creation.date.string": "2023-05-14T22:58:36.954Z"
+  },
+  {
+    "index": "zabbix_logs_0002",
+    "creation.date.string": "2023-05-14T22:58:36.349Z"
+  },
+  {
+    "index": "tr_pg_category_0002",
+    "creation.date.string": "2023-05-14T22:58:36.268Z"
+  },
+  {
+    "index": "scripts_logs_0002",
+    "creation.date.string": "2023-05-14T22:58:36.186Z"
+  },
+  {
+    "index": "tr_mms-module_test_0002",
+    "creation.date.string": "2023-05-14T22:58:36.056Z"
+  },
+  {
+    "index": "tr_listing_stats_0002",
+    "creation.date.string": "2023-05-14T22:58:35.982Z"
+  },
+  {
+    "index": "failed_parsing_scripts_logs_0002",
+    "creation.date.string": "2023-05-14T22:58:35.760Z"
+  },
+  {
+    "index": ".lists-default-000003",
+    "creation.date.string": "2023-05-14T22:58:35.697Z"
+  },
+  {
+    "index": ".items-default-000003",
+    "creation.date.string": "2023-05-14T22:58:35.623Z"
+  },
+  {
+    "index": "61dff9b19dd5a1028e3b8f3f_product_listings_0002",
+    "creation.date.string": "2023-05-14T22:58:35.541Z"
+  },
+  {
+    "index": ".metrics-endpoint.metadata_united_default_0002",
+    "creation.date.string": "2023-05-14T22:58:35.473Z"
+  },
+  {
+    "index": "tr_productmatches_new_0002",
+    "creation.date.string": "2023-05-14T22:58:35.399Z"
+  },
+  {
+    "index": "tr_api_data_0002",
+    "creation.date.string": "2023-05-14T22:58:35.214Z"
+  },
+  {
+    "index": "tr_mms-module-missing-wrongs_0002",
+    "creation.date.string": "2023-05-14T22:58:34.965Z"
+  },
+  {
+    "index": "tr_lv3-mms-category_0002",
+    "creation.date.string": "2023-05-14T22:58:34.882Z"
+  },
+  {
+    "index": ".async-search_0002",
+    "creation.date.string": "2023-05-14T22:58:34.817Z"
+  },
+  {
+    "index": "tr_brands_0002",
+    "creation.date.string": "2023-05-14T22:58:34.750Z"
+  },
+  {
+    "index": ".kibana_task_manager_7.17.7_003",
+    "creation.date.string": "2023-05-14T22:58:34.687Z"
+  },
+  {
+    "index": "failed_parsing_submitter_logs_0002",
+    "creation.date.string": "2023-05-14T22:58:34.631Z"
+  },
+  {
+    "index": "61dffcbfafc9db02a11a643b_product_listings_0002",
+    "creation.date.string": "2023-05-14T22:58:34.500Z"
+  },
+  {
+    "index": ".reporting-2022-07-33",
+    "creation.date.string": "2023-05-14T22:58:34.442Z"
+  },
+  {
+    "index": "indexer_logs_0002",
+    "creation.date.string": "2023-05-14T22:58:34.373Z"
+  },
+  {
+    "index": "tr_mms-missing-wrongs_0002",
+    "creation.date.string": "2023-05-14T22:58:34.291Z"
+  },
+  {
+    "index": "tr_custom-category_0002",
+    "creation.date.string": "2023-05-14T22:58:34.106Z"
+  },
+  {
+    "index": "tr_categories_0002",
+    "creation.date.string": "2023-05-14T22:58:33.834Z"
+  },
+  {
+    "index": "tr_module_listing_stats_0002",
+    "creation.date.string": "2023-05-14T22:58:33.733Z"
+  },
+  {
+    "index": "tr_mms-module_test_4",
+    "creation.date.string": "2023-05-14T22:58:33.643Z"
+  },
+  {
+    "index": ".kibana_7.17.7_003",
+    "creation.date.string": "2023-05-14T22:58:33.430Z"
+  },
+  {
+    "index": "tr_module_names_0002",
+    "creation.date.string": "2023-05-14T22:58:33.213Z"
+  },
+  {
+    "index": "tr_mms-category_0002",
+    "creation.date.string": "2023-05-14T22:58:33.106Z"
+  },
+  {
+    "index": "tr_module_accuracy_stats_0002",
+    "creation.date.string": "2023-05-14T22:58:33.008Z"
+  },
+  {
+    "index": "failed_parsing_goat_logs_0002",
+    "creation.date.string": "2023-05-14T22:58:32.730Z"
+  },
+  {
+    "index": ".monitoring_0002",
+    "creation.date.string": "2023-05-14T22:58:32.636Z"
+  },
+  {
+    "index": ".reporting-2022-11-08",
+    "creation.date.string": "2023-05-14T22:58:32.539Z"
+  },
+  {
+    "index": "tr_accuracy_stats_0002",
+    "creation.date.string": "2023-05-14T22:58:32.313Z"
+  },
+  {
+    "index": "submitter_logs_0002",
+    "creation.date.string": "2023-05-14T22:58:32.164Z"
+  },
+  {
+    "index": "61dff923afc9db02a1195420_product_listings_0002",
+    "creation.date.string": "2023-05-14T22:58:32.019Z"
+  },
+  {
+    "index": "61dffacbae4ea50a7eb7b2d2_product_listings_0002",
+    "creation.date.string": "2023-05-14T22:58:31.889Z"
+  },
+  {
+    "index": "tr_reviewed_0002",
+    "creation.date.string": "2023-05-14T22:58:31.668Z"
+  },
+  {
+    "index": ".kibana_7.15.2_003",
+    "creation.date.string": "2023-05-14T22:58:31.225Z"
+  }
+]

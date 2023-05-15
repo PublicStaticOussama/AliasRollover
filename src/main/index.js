@@ -1,3 +1,4 @@
+import { Logger } from "../utils/Logger.js";
 import {
   fetchAliasesByPattern,
   fetchIndexMappings,
@@ -78,7 +79,8 @@ export const rollover = async (rolloverIndices) => {
     // The mask is a way to indicate which indices were succesfully created, and which were not
     // ========================================================================================;
     const fulfilledMask = await createIndices(newIndexMappings);
-    // console.log("mask:", fulfilledMask);
+    Logger.green("fulfilled index creations:");
+    console.log(fulfilledMask);
 
     setStep("filter_NEW_indices_by_mask");
     // ========================================================================================;
